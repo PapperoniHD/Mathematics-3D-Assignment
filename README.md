@@ -9,7 +9,7 @@ For state and context, I did a bouncy mushroom, where if you walk into it would 
 <img src="https://raw.githubusercontent.com/PapperoniHD/Mathematics-3D-Assignment/main/Mathematics%203D%20Assignment/Assets/Gifs%26Images/BouncyMushroom.gif" width="300"> <img src="https://github.com/PapperoniHD/Mathematics-3D-Assignment/blob/main/Mathematics%203D%20Assignment/Assets/Gifs%26Images/DestroyMushroom.gif" width="300">
 
 # 2. Interpolation
-For interpolation, I did an example of a box interpolationg forward and backwards, as well as interpolating the color of it. There is also an animation example, where I am interpolating between two animation layers, showing how it could apply to animations as well. You can change the easing function of these interpolation by going into a trigger box, also using logic from exercise number 3.
+For interpolation, I did an example of a box interpolationg forward and backwards, as well as interpolating the color of it. There is also an animation example, where I am interpolating between two animation layers, showing how it could apply to animations as well. You can change the easing function of these interpolation by going into a trigger box, also using logic from exercise number 3. I also am using interpolation for camera movement for the character.
 
 <img src="https://github.com/PapperoniHD/Mathematics-3D-Assignment/blob/main/Mathematics%203D%20Assignment/Assets/Gifs%26Images/Interpolation.gif" width="300">
 
